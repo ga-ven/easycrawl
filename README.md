@@ -12,6 +12,7 @@ if __name__ == '__main__':
     crawl_site(start_url)
 ```
 **爬取的都是网站的静态内容，如果子网站是一个pdf,doc文件的话,也能爬取下来**
+
 注意：动态加载的就爬取不了，得用到Selenium来处理动态加载内容
 
 ### 启动easycrawl程序
