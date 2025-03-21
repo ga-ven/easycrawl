@@ -19,3 +19,6 @@ if __name__ == '__main__':
 ```python
 python easycrawl.py
 ```
+
+### 请随意打赏
+![bbfe41a27a37817481dfb83118600e6](https://github.com/user-attachments/assets/80f17a26-2474-4df5-893a-31ce0aa189b4)
