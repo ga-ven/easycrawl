@@ -12,3 +12,8 @@ if __name__ == '__main__':
     crawl_site(start_url)
 ```
 注意：爬取的都是网站的静态内容，动态加载的就爬取不了，得用到Selenium来处理动态加载内容
+
+### 启动easycrawl程序
+```python
+python easycrawl.py
+```
